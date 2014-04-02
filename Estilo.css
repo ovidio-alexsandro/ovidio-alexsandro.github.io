@@ -1,0 +1,11 @@
+ 	 	body {
+ 		margin: 0;
+ 	}
+ 	div {
+ 		background-image: url(http://www.culturamix.com/wp-content/gallery/papel-de-parede-com-natureza/papel-de-parede-com-natureza-3.jpg);
+ 		background-repeat: no-repeat;
+ 		background-size: cover;
+ 		background-color: red;
+ 		text-align:center;
+ 		padding: 20px 0px;
+ 	}
