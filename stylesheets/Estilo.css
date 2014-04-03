@@ -1,11 +1,14 @@
- 	 	body {
- 		margin: 0;
- 	}
- 	div {
- 		background-image: url(../images/background.jpg);
- 		background-repeat: no-repeat;
- 		background-size: cover;
- 		background-color: red;
- 		text-align:center;
- 		padding: 20px 0px;
- 	}
+div {
+	background-color: white;	
+}
+
+body {
+	margin: 0;
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: red;
+	text-align:center;
+	padding: 20px 0px;
+
+}
